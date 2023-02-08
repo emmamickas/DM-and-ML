@@ -1,7 +1,3 @@
-#Emma Mickas
-#ID: 011651116
-#CptS315 HW1
-
 allItems = {}
 numEntries = 0
 
