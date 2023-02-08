@@ -1,0 +1,64 @@
+Able to predict extroversion based on openness training questions using perceptron with %0.5076119402985074 accuracy
+Able to predict extroversion based on openness training reduced questions using perceptron with %0.5049253731343284 accuracy
+Able to predict extroversion based on openness testing questions using perceptron with %0.4893939393939394 accuracy
+Able to predict extroversion based on openness testing reduced questions using perceptron with %0.48757575757575755 accuracy
+Able to predict extroversion based on openness training questions using stochastic gradient descent with %0.5320895522388059 accuracy
+Able to predict extroversion based on openness training reduced questions using stochastic gradient descent with %0.5049253731343284 accuracy
+Able to predict extroversion based on openness testing questions using stochastic gradient descent with %0.5218181818181818 accuracy
+Able to predict extroversion based on openness testing reduced questions using stochastic gradient descent with %0.48818181818181816 accuracy
+Able to predict extroversion based on openness training questions using logistic with %0.553134328358209 accuracy
+Able to predict extroversion based on openness training reduced questions using logistic with %0.5334328358208955 accuracy
+Able to predict extroversion based on openness testing questions using logistic with %0.47 accuracy
+Able to predict extroversion based on openness testing reduced questions using logistic with %0.5209090909090909 accuracy
+Able to predict extroversion based on openness training questions using decision tree with %0.9388059701492537 accuracy
+Able to predict extroversion based on openness training reduced questions using decision tree with %0.5649253731343283 accuracy
+Able to predict extroversion based on openness testing questions using decision tree with %0.4990909090909091 accuracy
+Able to predict extroversion based on openness testing reduced questions using decision tree with %0.5303030303030303 accuracy
+Able to predict neuroticism based on openness training questions using perceptron with %0.7022388059701492 accuracy
+Able to predict neuroticism based on openness training reduced questions using perceptron with %0.6773134328358209 accuracy
+Able to predict neuroticism based on openness testing questions using perceptron with %0.6403030303030303 accuracy
+Able to predict neuroticism based on openness testing reduced questions using perceptron with %0.6766666666666666 accuracy
+Able to predict neuroticism based on openness training questions using stochastic gradient descent with %0.6865671641791045 accuracy
+Able to predict neuroticism based on openness training reduced questions using stochastic gradient descent with %0.681044776119403 accuracy
+Able to predict neuroticism based on openness testing questions using stochastic gradient descent with %0.6842424242424242 accuracy
+Able to predict neuroticism based on openness testing reduced questions using stochastic gradient descent with %0.6784848484848485 accuracy
+Able to predict neuroticism based on openness training questions using logistic with %0.7101492537313433 accuracy
+Able to predict neuroticism based on openness training reduced questions using logistic with %0.6813432835820895 accuracy
+Able to predict neuroticism based on openness testing questions using logistic with %0.6566666666666666 accuracy
+Able to predict neuroticism based on openness testing reduced questions using logistic with %0.6790909090909091 accuracy
+Able to predict neuroticism based on openness training questions using decision tree with %0.9571641791044776 accuracy
+Able to predict neuroticism based on openness training reduced questions using decision tree with %0.6885074626865672 accuracy
+Able to predict neuroticism based on openness testing questions using decision tree with %0.5666666666666667 accuracy
+Able to predict neuroticism based on openness testing reduced questions using decision tree with %0.6775757575757576 accuracy
+Able to predict agreeableness based on openness training questions using perceptron with %0.8546268656716418 accuracy
+Able to predict agreeableness based on openness training reduced questions using perceptron with %0.8601492537313433 accuracy
+Able to predict agreeableness based on openness testing questions using perceptron with %0.8554545454545455 accuracy
+Able to predict agreeableness based on openness testing reduced questions using perceptron with %0.8536363636363636 accuracy
+Able to predict agreeableness based on openness training questions using stochastic gradient descent with %0.8628358208955224 accuracy
+Able to predict agreeableness based on openness training reduced questions using stochastic gradient descent with %0.8629850746268657 accuracy
+Able to predict agreeableness based on openness testing questions using stochastic gradient descent with %0.8554545454545455 accuracy
+Able to predict agreeableness based on openness testing reduced questions using stochastic gradient descent with %0.8554545454545455 accuracy
+Able to predict agreeableness based on openness training questions using logistic with %0.8629850746268657 accuracy
+Able to predict agreeableness based on openness training reduced questions using logistic with %0.8629850746268657 accuracy
+Able to predict agreeableness based on openness testing questions using logistic with %0.8554545454545455 accuracy
+Able to predict agreeableness based on openness testing reduced questions using logistic with %0.8554545454545455 accuracy
+Able to predict agreeableness based on openness training questions using decision tree with %0.9664179104477612 accuracy
+Able to predict agreeableness based on openness training reduced questions using decision tree with %0.8638805970149254 accuracy
+Able to predict agreeableness based on openness testing questions using decision tree with %0.7603030303030303 accuracy
+Able to predict agreeableness based on openness testing reduced questions using decision tree with %0.8515151515151516 accuracy
+Able to predict conscientiousness based on openness training questions using perceptron with %1.0 accuracy
+Able to predict conscientiousness based on openness training reduced questions using perceptron with %0.8173134328358209 accuracy
+Able to predict conscientiousness based on openness testing questions using perceptron with %0.6615151515151515 accuracy
+Able to predict conscientiousness based on openness testing reduced questions using perceptron with %0.6466666666666666 accuracy
+Able to predict conscientiousness based on openness training questions using stochastic gradient descent with %0.9950746268656716 accuracy
+Able to predict conscientiousness based on openness training reduced questions using stochastic gradient descent with %0.8055223880597014 accuracy
+Able to predict conscientiousness based on openness testing questions using stochastic gradient descent with %0.6639393939393939 accuracy
+Able to predict conscientiousness based on openness testing reduced questions using stochastic gradient descent with %0.666969696969697 accuracy
+Able to predict conscientiousness based on openness training questions using logistic with %1.0 accuracy
+Able to predict conscientiousness based on openness training reduced questions using logistic with %0.8214925373134329 accuracy
+Able to predict conscientiousness based on openness testing questions using logistic with %0.6615151515151515 accuracy
+Able to predict conscientiousness based on openness testing reduced questions using logistic with %0.6654545454545454 accuracy
+Able to predict conscientiousness based on openness training questions using decision tree with %1.0 accuracy
+Able to predict conscientiousness based on openness training reduced questions using decision tree with %0.8311940298507463 accuracy
+Able to predict conscientiousness based on openness testing questions using decision tree with %0.6542424242424243 accuracy
+Able to predict conscientiousness based on openness testing reduced questions using decision tree with %0.6606060606060606 accuracy

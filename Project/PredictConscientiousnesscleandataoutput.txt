@@ -1,0 +1,50 @@
+Able to predict conscientiousness based on individual training questions using perceptron with %0.6686567164179105 accuracy
+Able to predict conscientiousness based on individual testing questions using perceptron with %0.6812121212121212 accuracy
+Able to predict conscientiousness based on individual training totals using perceptron with %0.6605970149253731 accuracy
+Able to predict conscientiousness based on individual testing totals using perceptron with %0.6718181818181819 accuracy
+Able to predict conscientiousness based on individual training preferences using perceptron with %0.47134328358208955 accuracy
+Able to predict conscientiousness based on individual testing preferences using perceptron with %0.4593939393939394 accuracy
+Able to predict conscientiousness based on individual training questions after pca without separation of questions using perceptron with %0.5501492537313433 accuracy
+Able to predict conscientiousness based on individual testing questions after pca without separation of questions using perceptron with %0.5381818181818182 accuracy
+Able to predict conscientiousness based on individual training questions after pca with separation of questions using perceptron with %0.5646268656716418 accuracy
+Able to predict conscientiousness based on individual testing questions after pca with separation of questions using perceptron with %0.5796969696969697 accuracy
+Able to predict conscientiousness based on individual training questions using stochastic gradient descent with %0.6673134328358209 accuracy
+Able to predict conscientiousness based on individual testing questions using stochastic gradient descent with %0.676060606060606 accuracy
+Able to predict conscientiousness based on individual training totals using stochastic gradient descent with %0.6605970149253731 accuracy
+Able to predict conscientiousness based on individual testing totals using stochastic gradient descent with %0.6718181818181819 accuracy
+Able to predict conscientiousness based on individual training preferences using stochastic gradient descent with %0.6605970149253731 accuracy
+Able to predict conscientiousness based on individual testing preferences using stochastic gradient descent with %0.6718181818181819 accuracy
+Able to predict conscientiousness based on individual training questions after pca without separation of questions using stochastic gradient descent with %0.6186567164179104 accuracy
+Able to predict conscientiousness based on individual testing questions after pca without separation of questions using stochastic gradient descent with %0.6127272727272727 accuracy
+Able to predict conscientiousness based on individual training questions after pca with separation of questions using stochastic gradient descent with %0.5614925373134328 accuracy
+Able to predict conscientiousness based on individual testing questions after pca with separation of questions using stochastic gradient descent with %0.5503030303030303 accuracy
+Able to predict conscientiousness based on individual training questions using logistic regression with %0.6983582089552239 accuracy
+Able to predict conscientiousness based on individual testing questions using logistic regression with %0.6921212121212121 accuracy
+Able to predict conscientiousness based on individual training totals using logistic regression with %0.6694029850746268 accuracy
+Able to predict conscientiousness based on individual testing totals using logistic regression with %0.6724242424242424 accuracy
+Able to predict conscientiousness based on individual training preferences using logistic regression with %0.6605970149253731 accuracy
+Able to predict conscientiousness based on individual testing preferences using logistic regression with %0.6718181818181819 accuracy
+Able to predict conscientiousness based on individual training questions after pca without separation of questions using logistic regression with %0.6970149253731344 accuracy
+Able to predict conscientiousness based on individual testing questions after pca without separation of questions using logistic regression with %0.686969696969697 accuracy
+Able to predict conscientiousness based on individual training questions after pca with separation of questions using logistic regression with %0.6943283582089552 accuracy
+Able to predict conscientiousness based on individual testing questions after pca with separation of questions using logistic regression with %0.6878787878787879 accuracy
+Able to predict conscientiousness based on individual training questions using decision tree with %0.9965671641791045 accuracy
+Able to predict conscientiousness based on individual testing questions using decision tree with %0.5921212121212122 accuracy
+Able to predict conscientiousness based on individual training totals using decision tree with %0.9697014925373134 accuracy
+Able to predict conscientiousness based on individual testing totals using decision tree with %0.5690909090909091 accuracy
+Able to predict conscientiousness based on individual training preferences using decision tree with %0.6605970149253731 accuracy
+Able to predict conscientiousness based on individual testing preferences using decision tree with %0.6718181818181819 accuracy
+Able to predict conscientiousness based on individual training questions after pca without separation of questions using decision tree with %0.9967164179104477 accuracy
+Able to predict conscientiousness based on individual testing questions after pca without separation of questions using decision tree with %0.6057575757575757 accuracy
+Able to predict conscientiousness based on individual training questions after pca with separation of questions using decision tree with %0.9943283582089553 accuracy
+Able to predict conscientiousness based on individual testing questions after pca with separation of questions using decision tree with %0.5909090909090909 accuracy
+Able to predict conscientiousness based on individual training questions using ensemble of the above with %0.8844776119402985 accuracy
+Able to predict conscientiousness based on individual testing questions using ensemble of the above with %0.62 accuracy
+Able to predict conscientiousness based on individual training totals using ensemble of the above with %0.7019402985074626 accuracy
+Able to predict conscientiousness based on individual testing totals using ensemble of the above with %0.6706060606060606 accuracy
+Able to predict conscientiousness based on individual training preferences using ensemble of the above with %0.6534328358208955 accuracy
+Able to predict conscientiousness based on individual testing preferences using ensemble of the above with %0.6624242424242425 accuracy
+Able to predict conscientiousness based on individual training pca questions using ensemble of the above with %0.8129850746268656 accuracy
+Able to predict conscientiousness based on individual testing pca questions using ensemble of the above with %0.6284848484848485 accuracy
+Able to predict conscientiousness based on individual training pca separated questions using ensemble of the above with %0.8047761194029851 accuracy
+Able to predict conscientiousness based on individual testing pca separated questions using ensemble of the above with %0.6451515151515151 accuracy

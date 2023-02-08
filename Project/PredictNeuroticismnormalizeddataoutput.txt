@@ -1,0 +1,50 @@
+Able to predict neuroticism based on individual training questions using perceptron with %0.7155223880597015 accuracy
+Able to predict neuroticism based on individual testing questions using perceptron with %0.7157575757575757 accuracy
+Able to predict neuroticism based on individual training totals using perceptron with %0.7253731343283583 accuracy
+Able to predict neuroticism based on individual testing totals using perceptron with %0.7260606060606061 accuracy
+Able to predict neuroticism based on individual training preferences using perceptron with %0.62 accuracy
+Able to predict neuroticism based on individual testing preferences using perceptron with %0.5957575757575757 accuracy
+Able to predict neuroticism based on individual training questions after pca without separation of questions using perceptron with %0.4337313432835821 accuracy
+Able to predict neuroticism based on individual testing questions after pca without separation of questions using perceptron with %0.44 accuracy
+Able to predict neuroticism based on individual training questions after pca with separation of questions using perceptron with %0.82 accuracy
+Able to predict neuroticism based on individual testing questions after pca with separation of questions using perceptron with %0.823939393939394 accuracy
+Able to predict neuroticism based on individual training questions using stochastic gradient descent with %0.7223880597014926 accuracy
+Able to predict neuroticism based on individual testing questions using stochastic gradient descent with %0.7203030303030303 accuracy
+Able to predict neuroticism based on individual training totals using stochastic gradient descent with %0.9216417910447762 accuracy
+Able to predict neuroticism based on individual testing totals using stochastic gradient descent with %0.9212121212121213 accuracy
+Able to predict neuroticism based on individual training preferences using stochastic gradient descent with %0.6813432835820895 accuracy
+Able to predict neuroticism based on individual testing preferences using stochastic gradient descent with %0.6790909090909091 accuracy
+Able to predict neuroticism based on individual training questions after pca without separation of questions using stochastic gradient descent with %0.7097014925373134 accuracy
+Able to predict neuroticism based on individual testing questions after pca without separation of questions using stochastic gradient descent with %0.7084848484848485 accuracy
+Able to predict neuroticism based on individual training questions after pca with separation of questions using stochastic gradient descent with %0.7192537313432836 accuracy
+Able to predict neuroticism based on individual testing questions after pca with separation of questions using stochastic gradient descent with %0.7169696969696969 accuracy
+Able to predict neuroticism based on individual training questions using logistic regression with %0.9032835820895523 accuracy
+Able to predict neuroticism based on individual testing questions using logistic regression with %0.8939393939393939 accuracy
+Able to predict neuroticism based on individual training totals using logistic regression with %0.9292537313432836 accuracy
+Able to predict neuroticism based on individual testing totals using logistic regression with %0.926969696969697 accuracy
+Able to predict neuroticism based on individual training preferences using logistic regression with %0.6813432835820895 accuracy
+Able to predict neuroticism based on individual testing preferences using logistic regression with %0.6790909090909091 accuracy
+Able to predict neuroticism based on individual training questions after pca without separation of questions using logistic regression with %0.866268656716418 accuracy
+Able to predict neuroticism based on individual testing questions after pca without separation of questions using logistic regression with %0.8621212121212121 accuracy
+Able to predict neuroticism based on individual training questions after pca with separation of questions using logistic regression with %0.9186567164179105 accuracy
+Able to predict neuroticism based on individual testing questions after pca with separation of questions using logistic regression with %0.9136363636363637 accuracy
+Able to predict neuroticism based on individual training questions using decision tree with %1.0 accuracy
+Able to predict neuroticism based on individual testing questions using decision tree with %0.7521212121212121 accuracy
+Able to predict neuroticism based on individual training totals using decision tree with %1.0 accuracy
+Able to predict neuroticism based on individual testing totals using decision tree with %0.8718181818181818 accuracy
+Able to predict neuroticism based on individual training preferences using decision tree with %0.6813432835820895 accuracy
+Able to predict neuroticism based on individual testing preferences using decision tree with %0.6790909090909091 accuracy
+Able to predict neuroticism based on individual training questions after pca without separation of questions using decision tree with %0.9998507462686567 accuracy
+Able to predict neuroticism based on individual testing questions after pca without separation of questions using decision tree with %0.7812121212121212 accuracy
+Able to predict neuroticism based on individual training questions after pca with separation of questions using decision tree with %0.9995522388059701 accuracy
+Able to predict neuroticism based on individual testing questions after pca with separation of questions using decision tree with %0.7612121212121212 accuracy
+Able to predict neuroticism based on individual training questions using ensemble of the above with %0.9234328358208955 accuracy
+Able to predict neuroticism based on individual testing questions using ensemble of the above with %0.8593939393939394 accuracy
+Able to predict neuroticism based on individual training totals using ensemble of the above with %0.9644776119402985 accuracy
+Able to predict neuroticism based on individual testing totals using ensemble of the above with %0.9033333333333333 accuracy
+Able to predict neuroticism based on individual training preferences using ensemble of the above with %0.6813432835820895 accuracy
+Able to predict neuroticism based on individual testing preferences using ensemble of the above with %0.6790909090909091 accuracy
+Able to predict neuroticism based on individual training pca questions using ensemble of the above with %0.9535820895522388 accuracy
+Able to predict neuroticism based on individual testing pca questions using ensemble of the above with %0.8148484848484848 accuracy
+Able to predict neuroticism based on individual training pca separated questions using ensemble of the above with %0.9719402985074627 accuracy
+Able to predict neuroticism based on individual testing pca separated questions using ensemble of the above with %0.8909090909090909 accuracy

@@ -1,0 +1,50 @@
+Able to predict agreeableness based on individual training questions using perceptron with %0.8386567164179104 accuracy
+Able to predict agreeableness based on individual testing questions using perceptron with %0.8251515151515152 accuracy
+Able to predict agreeableness based on individual training totals using perceptron with %0.8074626865671641 accuracy
+Able to predict agreeableness based on individual testing totals using perceptron with %0.7957575757575758 accuracy
+Able to predict agreeableness based on individual training preferences using perceptron with %0.8371641791044776 accuracy
+Able to predict agreeableness based on individual testing preferences using perceptron with %0.8303030303030303 accuracy
+Able to predict agreeableness based on individual training questions after pca without separation of questions using perceptron with %0.76 accuracy
+Able to predict agreeableness based on individual testing questions after pca without separation of questions using perceptron with %0.7551515151515151 accuracy
+Able to predict agreeableness based on individual training questions after pca with separation of questions using perceptron with %0.8013432835820895 accuracy
+Able to predict agreeableness based on individual testing questions after pca with separation of questions using perceptron with %0.7966666666666666 accuracy
+Able to predict agreeableness based on individual training questions using stochastic gradient descent with %0.8658208955223881 accuracy
+Able to predict agreeableness based on individual testing questions using stochastic gradient descent with %0.8527272727272728 accuracy
+Able to predict agreeableness based on individual training totals using stochastic gradient descent with %0.8622388059701492 accuracy
+Able to predict agreeableness based on individual testing totals using stochastic gradient descent with %0.8557575757575757 accuracy
+Able to predict agreeableness based on individual training preferences using stochastic gradient descent with %0.8629850746268657 accuracy
+Able to predict agreeableness based on individual testing preferences using stochastic gradient descent with %0.8554545454545455 accuracy
+Able to predict agreeableness based on individual training questions after pca without separation of questions using stochastic gradient descent with %0.8304477611940299 accuracy
+Able to predict agreeableness based on individual testing questions after pca without separation of questions using stochastic gradient descent with %0.8221212121212121 accuracy
+Able to predict agreeableness based on individual training questions after pca with separation of questions using stochastic gradient descent with %0.7858208955223881 accuracy
+Able to predict agreeableness based on individual testing questions after pca with separation of questions using stochastic gradient descent with %0.7824242424242425 accuracy
+Able to predict agreeableness based on individual training questions using logistic regression with %0.8713432835820896 accuracy
+Able to predict agreeableness based on individual testing questions using logistic regression with %0.8563636363636363 accuracy
+Able to predict agreeableness based on individual training totals using logistic regression with %0.8629850746268657 accuracy
+Able to predict agreeableness based on individual testing totals using logistic regression with %0.8554545454545455 accuracy
+Able to predict agreeableness based on individual training preferences using logistic regression with %0.8629850746268657 accuracy
+Able to predict agreeableness based on individual testing preferences using logistic regression with %0.8554545454545455 accuracy
+Able to predict agreeableness based on individual training questions after pca without separation of questions using logistic regression with %0.8682089552238806 accuracy
+Able to predict agreeableness based on individual testing questions after pca without separation of questions using logistic regression with %0.8584848484848485 accuracy
+Able to predict agreeableness based on individual training questions after pca with separation of questions using logistic regression with %0.8665671641791045 accuracy
+Able to predict agreeableness based on individual testing questions after pca with separation of questions using logistic regression with %0.8551515151515151 accuracy
+Able to predict agreeableness based on individual training questions using decision tree with %0.9991044776119403 accuracy
+Able to predict agreeableness based on individual testing questions using decision tree with %0.7693939393939394 accuracy
+Able to predict agreeableness based on individual training totals using decision tree with %0.9879104477611941 accuracy
+Able to predict agreeableness based on individual testing totals using decision tree with %0.7542424242424243 accuracy
+Able to predict agreeableness based on individual training preferences using decision tree with %0.8629850746268657 accuracy
+Able to predict agreeableness based on individual testing preferences using decision tree with %0.8554545454545455 accuracy
+Able to predict agreeableness based on individual training questions after pca without separation of questions using decision tree with %0.9959701492537314 accuracy
+Able to predict agreeableness based on individual testing questions after pca without separation of questions using decision tree with %0.7739393939393939 accuracy
+Able to predict agreeableness based on individual training questions after pca with separation of questions using decision tree with %0.9922388059701492 accuracy
+Able to predict agreeableness based on individual testing questions after pca with separation of questions using decision tree with %0.796969696969697 accuracy
+Able to predict agreeableness based on individual training questions using ensemble of the above with %0.8970149253731343 accuracy
+Able to predict agreeableness based on individual testing questions using ensemble of the above with %0.8496969696969697 accuracy
+Able to predict agreeableness based on individual training totals using ensemble of the above with %0.8885074626865672 accuracy
+Able to predict agreeableness based on individual testing totals using ensemble of the above with %0.8387878787878787 accuracy
+Able to predict agreeableness based on individual training preferences using ensemble of the above with %0.8629850746268657 accuracy
+Able to predict agreeableness based on individual testing preferences using ensemble of the above with %0.8554545454545455 accuracy
+Able to predict agreeableness based on individual training pca questions using ensemble of the above with %0.9247761194029851 accuracy
+Able to predict agreeableness based on individual testing pca questions using ensemble of the above with %0.8184848484848485 accuracy
+Able to predict agreeableness based on individual training pca separated questions using ensemble of the above with %0.8995522388059701 accuracy
+Able to predict agreeableness based on individual testing pca separated questions using ensemble of the above with %0.843030303030303 accuracy

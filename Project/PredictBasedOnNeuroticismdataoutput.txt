@@ -1,0 +1,64 @@
+Able to predict extroversion based on neuroticism training questions using perceptron with %0.5456716417910448 accuracy
+Able to predict extroversion based on neuroticism training reduced questions using perceptron with %0.5729850746268657 accuracy
+Able to predict extroversion based on neuroticism testing questions using perceptron with %0.5575757575757576 accuracy
+Able to predict extroversion based on neuroticism testing reduced questions using perceptron with %0.5636363636363636 accuracy
+Able to predict extroversion based on neuroticism training questions using stochastic gradient descent with %0.6122388059701492 accuracy
+Able to predict extroversion based on neuroticism training reduced questions using stochastic gradient descent with %0.5823880597014925 accuracy
+Able to predict extroversion based on neuroticism testing questions using stochastic gradient descent with %0.5957575757575757 accuracy
+Able to predict extroversion based on neuroticism testing reduced questions using stochastic gradient descent with %0.5927272727272728 accuracy
+Able to predict extroversion based on neuroticism training questions using logistic with %0.6158208955223881 accuracy
+Able to predict extroversion based on neuroticism training reduced questions using logistic with %0.6134328358208955 accuracy
+Able to predict extroversion based on neuroticism testing questions using logistic with %0.6 accuracy
+Able to predict extroversion based on neuroticism testing reduced questions using logistic with %0.600909090909091 accuracy
+Able to predict extroversion based on neuroticism training questions using decision tree with %0.9425373134328359 accuracy
+Able to predict extroversion based on neuroticism training reduced questions using decision tree with %0.6250746268656716 accuracy
+Able to predict extroversion based on neuroticism testing questions using decision tree with %0.5330303030303031 accuracy
+Able to predict extroversion based on neuroticism testing reduced questions using decision tree with %0.6048484848484849 accuracy
+Able to predict agreeableness based on neuroticism training questions using perceptron with %0.8625373134328358 accuracy
+Able to predict agreeableness based on neuroticism training reduced questions using perceptron with %0.8629850746268657 accuracy
+Able to predict agreeableness based on neuroticism testing questions using perceptron with %0.8554545454545455 accuracy
+Able to predict agreeableness based on neuroticism testing reduced questions using perceptron with %0.8554545454545455 accuracy
+Able to predict agreeableness based on neuroticism training questions using stochastic gradient descent with %0.8611940298507462 accuracy
+Able to predict agreeableness based on neuroticism training reduced questions using stochastic gradient descent with %0.8629850746268657 accuracy
+Able to predict agreeableness based on neuroticism testing questions using stochastic gradient descent with %0.8536363636363636 accuracy
+Able to predict agreeableness based on neuroticism testing reduced questions using stochastic gradient descent with %0.8554545454545455 accuracy
+Able to predict agreeableness based on neuroticism training questions using logistic with %0.8643283582089553 accuracy
+Able to predict agreeableness based on neuroticism training reduced questions using logistic with %0.8629850746268657 accuracy
+Able to predict agreeableness based on neuroticism testing questions using logistic with %0.8557575757575757 accuracy
+Able to predict agreeableness based on neuroticism testing reduced questions using logistic with %0.8554545454545455 accuracy
+Able to predict agreeableness based on neuroticism training questions using decision tree with %0.9744776119402985 accuracy
+Able to predict agreeableness based on neuroticism training reduced questions using decision tree with %0.8659701492537314 accuracy
+Able to predict agreeableness based on neuroticism testing questions using decision tree with %0.7554545454545455 accuracy
+Able to predict agreeableness based on neuroticism testing reduced questions using decision tree with %0.8521212121212122 accuracy
+Able to predict conscientiousness based on neuroticism training questions using perceptron with %0.663134328358209 accuracy
+Able to predict conscientiousness based on neuroticism training reduced questions using perceptron with %0.6605970149253731 accuracy
+Able to predict conscientiousness based on neuroticism testing questions using perceptron with %0.67 accuracy
+Able to predict conscientiousness based on neuroticism testing reduced questions using perceptron with %0.6718181818181819 accuracy
+Able to predict conscientiousness based on neuroticism training questions using stochastic gradient descent with %0.585820895522388 accuracy
+Able to predict conscientiousness based on neuroticism training reduced questions using stochastic gradient descent with %0.6605970149253731 accuracy
+Able to predict conscientiousness based on neuroticism testing questions using stochastic gradient descent with %0.5748484848484848 accuracy
+Able to predict conscientiousness based on neuroticism testing reduced questions using stochastic gradient descent with %0.6718181818181819 accuracy
+Able to predict conscientiousness based on neuroticism training questions using logistic with %0.6844776119402985 accuracy
+Able to predict conscientiousness based on neuroticism training reduced questions using logistic with %0.6785074626865671 accuracy
+Able to predict conscientiousness based on neuroticism testing questions using logistic with %0.6793939393939394 accuracy
+Able to predict conscientiousness based on neuroticism testing reduced questions using logistic with %0.6806060606060607 accuracy
+Able to predict conscientiousness based on neuroticism training questions using decision tree with %0.9585074626865672 accuracy
+Able to predict conscientiousness based on neuroticism training reduced questions using decision tree with %0.6867164179104478 accuracy
+Able to predict conscientiousness based on neuroticism testing questions using decision tree with %0.5881818181818181 accuracy
+Able to predict conscientiousness based on neuroticism testing reduced questions using decision tree with %0.6815151515151515 accuracy
+Able to predict openness based on neuroticism training questions using perceptron with %0.8983582089552239 accuracy
+Able to predict openness based on neuroticism training reduced questions using perceptron with %0.9110447761194029 accuracy
+Able to predict openness based on neuroticism testing questions using perceptron with %0.9027272727272727 accuracy
+Able to predict openness based on neuroticism testing reduced questions using perceptron with %0.9145454545454546 accuracy
+Able to predict openness based on neuroticism training questions using stochastic gradient descent with %0.9119402985074627 accuracy
+Able to predict openness based on neuroticism training reduced questions using stochastic gradient descent with %0.9119402985074627 accuracy
+Able to predict openness based on neuroticism testing questions using stochastic gradient descent with %0.9151515151515152 accuracy
+Able to predict openness based on neuroticism testing reduced questions using stochastic gradient descent with %0.9148484848484848 accuracy
+Able to predict openness based on neuroticism training questions using logistic with %0.9119402985074627 accuracy
+Able to predict openness based on neuroticism training reduced questions using logistic with %0.9119402985074627 accuracy
+Able to predict openness based on neuroticism testing questions using logistic with %0.9148484848484848 accuracy
+Able to predict openness based on neuroticism testing reduced questions using logistic with %0.9148484848484848 accuracy
+Able to predict openness based on neuroticism training questions using decision tree with %0.9765671641791045 accuracy
+Able to predict openness based on neuroticism training reduced questions using decision tree with %0.9158208955223881 accuracy
+Able to predict openness based on neuroticism testing questions using decision tree with %0.8393939393939394 accuracy
+Able to predict openness based on neuroticism testing reduced questions using decision tree with %0.916060606060606 accuracy

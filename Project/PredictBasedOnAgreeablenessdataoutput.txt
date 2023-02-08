@@ -1,0 +1,64 @@
+Able to predict extroversion based on agreeableness training questions using perceptron with %0.6538805970149254 accuracy
+Able to predict extroversion based on agreeableness training reduced questions using perceptron with %0.568955223880597 accuracy
+Able to predict extroversion based on agreeableness testing questions using perceptron with %0.6633333333333333 accuracy
+Able to predict extroversion based on agreeableness testing reduced questions using perceptron with %0.546060606060606 accuracy
+Able to predict extroversion based on agreeableness training questions using stochastic gradient descent with %0.5598507462686567 accuracy
+Able to predict extroversion based on agreeableness training reduced questions using stochastic gradient descent with %0.5343283582089552 accuracy
+Able to predict extroversion based on agreeableness testing questions using stochastic gradient descent with %0.5727272727272728 accuracy
+Able to predict extroversion based on agreeableness testing reduced questions using stochastic gradient descent with %0.5527272727272727 accuracy
+Able to predict extroversion based on agreeableness training questions using logistic with %0.6838805970149253 accuracy
+Able to predict extroversion based on agreeableness training reduced questions using logistic with %0.6728358208955224 accuracy
+Able to predict extroversion based on agreeableness testing questions using logistic with %0.68 accuracy
+Able to predict extroversion based on agreeableness testing reduced questions using logistic with %0.6718181818181819 accuracy
+Able to predict extroversion based on agreeableness training questions using decision tree with %0.9394029850746268 accuracy
+Able to predict extroversion based on agreeableness training reduced questions using decision tree with %0.6874626865671641 accuracy
+Able to predict extroversion based on agreeableness testing questions using decision tree with %0.5948484848484848 accuracy
+Able to predict extroversion based on agreeableness testing reduced questions using decision tree with %0.6703030303030303 accuracy
+Able to predict neuroticism based on agreeableness training questions using perceptron with %0.6967164179104478 accuracy
+Able to predict neuroticism based on agreeableness training reduced questions using perceptron with %0.6838805970149253 accuracy
+Able to predict neuroticism based on agreeableness testing questions using perceptron with %0.6866666666666666 accuracy
+Able to predict neuroticism based on agreeableness testing reduced questions using perceptron with %0.6815151515151515 accuracy
+Able to predict neuroticism based on agreeableness training questions using stochastic gradient descent with %0.5437313432835821 accuracy
+Able to predict neuroticism based on agreeableness training reduced questions using stochastic gradient descent with %0.3162686567164179 accuracy
+Able to predict neuroticism based on agreeableness testing questions using stochastic gradient descent with %0.55 accuracy
+Able to predict neuroticism based on agreeableness testing reduced questions using stochastic gradient descent with %0.31727272727272726 accuracy
+Able to predict neuroticism based on agreeableness training questions using logistic with %0.7017910447761194 accuracy
+Able to predict neuroticism based on agreeableness training reduced questions using logistic with %0.6811940298507463 accuracy
+Able to predict neuroticism based on agreeableness testing questions using logistic with %0.6893939393939394 accuracy
+Able to predict neuroticism based on agreeableness testing reduced questions using logistic with %0.6790909090909091 accuracy
+Able to predict neuroticism based on agreeableness training questions using decision tree with %0.928955223880597 accuracy
+Able to predict neuroticism based on agreeableness training reduced questions using decision tree with %0.6885074626865672 accuracy
+Able to predict neuroticism based on agreeableness testing questions using decision tree with %0.6015151515151516 accuracy
+Able to predict neuroticism based on agreeableness testing reduced questions using decision tree with %0.676969696969697 accuracy
+Able to predict conscientiousness based on agreeableness training questions using perceptron with %0.6565671641791044 accuracy
+Able to predict conscientiousness based on agreeableness training reduced questions using perceptron with %0.6597014925373135 accuracy
+Able to predict conscientiousness based on agreeableness testing questions using perceptron with %0.6684848484848485 accuracy
+Able to predict conscientiousness based on agreeableness testing reduced questions using perceptron with %0.6696969696969697 accuracy
+Able to predict conscientiousness based on agreeableness training questions using stochastic gradient descent with %0.4698507462686567 accuracy
+Able to predict conscientiousness based on agreeableness training reduced questions using stochastic gradient descent with %0.6605970149253731 accuracy
+Able to predict conscientiousness based on agreeableness testing questions using stochastic gradient descent with %0.4624242424242424 accuracy
+Able to predict conscientiousness based on agreeableness testing reduced questions using stochastic gradient descent with %0.6718181818181819 accuracy
+Able to predict conscientiousness based on agreeableness training questions using logistic with %0.6662686567164179 accuracy
+Able to predict conscientiousness based on agreeableness training reduced questions using logistic with %0.6595522388059701 accuracy
+Able to predict conscientiousness based on agreeableness testing questions using logistic with %0.6684848484848485 accuracy
+Able to predict conscientiousness based on agreeableness testing reduced questions using logistic with %0.6718181818181819 accuracy
+Able to predict conscientiousness based on agreeableness training questions using decision tree with %0.9267164179104478 accuracy
+Able to predict conscientiousness based on agreeableness training reduced questions using decision tree with %0.6692537313432836 accuracy
+Able to predict conscientiousness based on agreeableness testing questions using decision tree with %0.5733333333333334 accuracy
+Able to predict conscientiousness based on agreeableness testing reduced questions using decision tree with %0.6627272727272727 accuracy
+Able to predict openness based on agreeableness training questions using perceptron with %0.9128358208955224 accuracy
+Able to predict openness based on agreeableness training reduced questions using perceptron with %0.9147761194029851 accuracy
+Able to predict openness based on agreeableness testing questions using perceptron with %0.9145454545454546 accuracy
+Able to predict openness based on agreeableness testing reduced questions using perceptron with %0.9184848484848485 accuracy
+Able to predict openness based on agreeableness training questions using stochastic gradient descent with %0.9137313432835821 accuracy
+Able to predict openness based on agreeableness training reduced questions using stochastic gradient descent with %0.912089552238806 accuracy
+Able to predict openness based on agreeableness testing questions using stochastic gradient descent with %0.916060606060606 accuracy
+Able to predict openness based on agreeableness testing reduced questions using stochastic gradient descent with %0.9130303030303031 accuracy
+Able to predict openness based on agreeableness training questions using logistic with %0.9149253731343283 accuracy
+Able to predict openness based on agreeableness training reduced questions using logistic with %0.9119402985074627 accuracy
+Able to predict openness based on agreeableness testing questions using logistic with %0.9175757575757576 accuracy
+Able to predict openness based on agreeableness testing reduced questions using logistic with %0.9148484848484848 accuracy
+Able to predict openness based on agreeableness training questions using decision tree with %0.9819402985074627 accuracy
+Able to predict openness based on agreeableness training reduced questions using decision tree with %0.9155223880597015 accuracy
+Able to predict openness based on agreeableness testing questions using decision tree with %0.8478787878787879 accuracy
+Able to predict openness based on agreeableness testing reduced questions using decision tree with %0.9175757575757576 accuracy

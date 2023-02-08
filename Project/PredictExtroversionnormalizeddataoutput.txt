@@ -1,0 +1,50 @@
+Able to predict extroversion based on individual training questions using perceptron with %0.9050746268656716 accuracy
+Able to predict extroversion based on individual testing questions using perceptron with %0.9012121212121212 accuracy
+Able to predict extroversion based on individual training totals using perceptron with %0.9025373134328358 accuracy
+Able to predict extroversion based on individual testing totals using perceptron with %0.8993939393939394 accuracy
+Able to predict extroversion based on individual training preferences using perceptron with %0.5308955223880597 accuracy
+Able to predict extroversion based on individual testing preferences using perceptron with %0.5339393939393939 accuracy
+Able to predict extroversion based on individual training questions after pca without separation of questions using perceptron with %0.8540298507462687 accuracy
+Able to predict extroversion based on individual testing questions after pca without separation of questions using perceptron with %0.8457575757575757 accuracy
+Able to predict extroversion based on individual training questions after pca with separation of questions using perceptron with %0.9171641791044776 accuracy
+Able to predict extroversion based on individual testing questions after pca with separation of questions using perceptron with %0.9193939393939394 accuracy
+Able to predict extroversion based on individual training questions using stochastic gradient descent with %0.7952238805970149 accuracy
+Able to predict extroversion based on individual testing questions using stochastic gradient descent with %0.7884848484848485 accuracy
+Able to predict extroversion based on individual training totals using stochastic gradient descent with %0.9214925373134328 accuracy
+Able to predict extroversion based on individual testing totals using stochastic gradient descent with %0.9257575757575758 accuracy
+Able to predict extroversion based on individual training preferences using stochastic gradient descent with %0.5761194029850746 accuracy
+Able to predict extroversion based on individual testing preferences using stochastic gradient descent with %0.5706060606060606 accuracy
+Able to predict extroversion based on individual training questions after pca without separation of questions using stochastic gradient descent with %0.8065671641791045 accuracy
+Able to predict extroversion based on individual testing questions after pca without separation of questions using stochastic gradient descent with %0.8018181818181818 accuracy
+Able to predict extroversion based on individual training questions after pca with separation of questions using stochastic gradient descent with %0.7907462686567164 accuracy
+Able to predict extroversion based on individual testing questions after pca with separation of questions using stochastic gradient descent with %0.7906060606060606 accuracy
+Able to predict extroversion based on individual training questions using logistic regression with %0.9047761194029851 accuracy
+Able to predict extroversion based on individual testing questions using logistic regression with %0.8984848484848484 accuracy
+Able to predict extroversion based on individual training totals using logistic regression with %0.9201492537313433 accuracy
+Able to predict extroversion based on individual testing totals using logistic regression with %0.923939393939394 accuracy
+Able to predict extroversion based on individual training preferences using logistic regression with %0.586865671641791 accuracy
+Able to predict extroversion based on individual testing preferences using logistic regression with %0.563939393939394 accuracy
+Able to predict extroversion based on individual training questions after pca without separation of questions using logistic regression with %0.8426865671641791 accuracy
+Able to predict extroversion based on individual testing questions after pca without separation of questions using logistic regression with %0.8463636363636363 accuracy
+Able to predict extroversion based on individual training questions after pca with separation of questions using logistic regression with %0.9071641791044777 accuracy
+Able to predict extroversion based on individual testing questions after pca with separation of questions using logistic regression with %0.9042424242424243 accuracy
+Able to predict extroversion based on individual training questions using decision tree with %0.9992537313432835 accuracy
+Able to predict extroversion based on individual testing questions using decision tree with %0.7375757575757576 accuracy
+Able to predict extroversion based on individual training totals using decision tree with %1.0 accuracy
+Able to predict extroversion based on individual testing totals using decision tree with %0.8572727272727273 accuracy
+Able to predict extroversion based on individual training preferences using decision tree with %0.586865671641791 accuracy
+Able to predict extroversion based on individual testing preferences using decision tree with %0.563939393939394 accuracy
+Able to predict extroversion based on individual training questions after pca without separation of questions using decision tree with %0.9967164179104477 accuracy
+Able to predict extroversion based on individual testing questions after pca without separation of questions using decision tree with %0.7484848484848485 accuracy
+Able to predict extroversion based on individual training questions after pca with separation of questions using decision tree with %1.0 accuracy
+Able to predict extroversion based on individual testing questions after pca with separation of questions using decision tree with %0.7418181818181818 accuracy
+Able to predict extroversion based on individual training questions using ensemble of the above with %0.9435820895522388 accuracy
+Able to predict extroversion based on individual testing questions using ensemble of the above with %0.9045454545454545 accuracy
+Able to predict extroversion based on individual training totals using ensemble of the above with %0.933134328358209 accuracy
+Able to predict extroversion based on individual testing totals using ensemble of the above with %0.9215151515151515 accuracy
+Able to predict extroversion based on individual training preferences using ensemble of the above with %0.5867164179104477 accuracy
+Able to predict extroversion based on individual testing preferences using ensemble of the above with %0.5648484848484848 accuracy
+Able to predict extroversion based on individual training pca questions using ensemble of the above with %0.9023880597014925 accuracy
+Able to predict extroversion based on individual testing pca questions using ensemble of the above with %0.8151515151515152 accuracy
+Able to predict extroversion based on individual training pca separated questions using ensemble of the above with %0.9325373134328359 accuracy
+Able to predict extroversion based on individual testing pca separated questions using ensemble of the above with %0.9103030303030303 accuracy

@@ -1,0 +1,50 @@
+Able to predict openness based on individual training questions using perceptron with %0.9411940298507463 accuracy
+Able to predict openness based on individual testing questions using perceptron with %0.9457575757575758 accuracy
+Able to predict openness based on individual training totals using perceptron with %0.9540298507462687 accuracy
+Able to predict openness based on individual testing totals using perceptron with %0.9463636363636364 accuracy
+Able to predict openness based on individual training preferences using perceptron with %0.7913432835820896 accuracy
+Able to predict openness based on individual testing preferences using perceptron with %0.7924242424242425 accuracy
+Able to predict openness based on individual training questions after pca without separation of questions using perceptron with %0.9191044776119403 accuracy
+Able to predict openness based on individual testing questions after pca without separation of questions using perceptron with %0.9227272727272727 accuracy
+Able to predict openness based on individual training questions after pca with separation of questions using perceptron with %0.9355223880597014 accuracy
+Able to predict openness based on individual testing questions after pca with separation of questions using perceptron with %0.9390909090909091 accuracy
+Able to predict openness based on individual training questions using stochastic gradient descent with %0.9119402985074627 accuracy
+Able to predict openness based on individual testing questions using stochastic gradient descent with %0.9148484848484848 accuracy
+Able to predict openness based on individual training totals using stochastic gradient descent with %0.9122388059701493 accuracy
+Able to predict openness based on individual testing totals using stochastic gradient descent with %0.9151515151515152 accuracy
+Able to predict openness based on individual training preferences using stochastic gradient descent with %0.9119402985074627 accuracy
+Able to predict openness based on individual testing preferences using stochastic gradient descent with %0.9148484848484848 accuracy
+Able to predict openness based on individual training questions after pca without separation of questions using stochastic gradient descent with %0.9119402985074627 accuracy
+Able to predict openness based on individual testing questions after pca without separation of questions using stochastic gradient descent with %0.9148484848484848 accuracy
+Able to predict openness based on individual training questions after pca with separation of questions using stochastic gradient descent with %0.9119402985074627 accuracy
+Able to predict openness based on individual testing questions after pca with separation of questions using stochastic gradient descent with %0.9148484848484848 accuracy
+Able to predict openness based on individual training questions using logistic regression with %0.9152238805970149 accuracy
+Able to predict openness based on individual testing questions using logistic regression with %0.9187878787878788 accuracy
+Able to predict openness based on individual training totals using logistic regression with %0.9225373134328358 accuracy
+Able to predict openness based on individual testing totals using logistic regression with %0.926060606060606 accuracy
+Able to predict openness based on individual training preferences using logistic regression with %0.9119402985074627 accuracy
+Able to predict openness based on individual testing preferences using logistic regression with %0.9148484848484848 accuracy
+Able to predict openness based on individual training questions after pca without separation of questions using logistic regression with %0.913134328358209 accuracy
+Able to predict openness based on individual testing questions after pca without separation of questions using logistic regression with %0.916060606060606 accuracy
+Able to predict openness based on individual training questions after pca with separation of questions using logistic regression with %0.9237313432835821 accuracy
+Able to predict openness based on individual testing questions after pca with separation of questions using logistic regression with %0.9245454545454546 accuracy
+Able to predict openness based on individual training questions using decision tree with %0.9944776119402985 accuracy
+Able to predict openness based on individual testing questions using decision tree with %0.883030303030303 accuracy
+Able to predict openness based on individual training totals using decision tree with %1.0 accuracy
+Able to predict openness based on individual testing totals using decision tree with %0.923030303030303 accuracy
+Able to predict openness based on individual training preferences using decision tree with %0.9119402985074627 accuracy
+Able to predict openness based on individual testing preferences using decision tree with %0.9148484848484848 accuracy
+Able to predict openness based on individual training questions after pca without separation of questions using decision tree with %0.9856716417910448 accuracy
+Able to predict openness based on individual testing questions after pca without separation of questions using decision tree with %0.8796969696969696 accuracy
+Able to predict openness based on individual training questions after pca with separation of questions using decision tree with %0.9922388059701492 accuracy
+Able to predict openness based on individual testing questions after pca with separation of questions using decision tree with %0.8854545454545455 accuracy
+Able to predict openness based on individual training questions using ensemble of the above with %0.9798507462686568 accuracy
+Able to predict openness based on individual testing questions using ensemble of the above with %0.9351515151515152 accuracy
+Able to predict openness based on individual training totals using ensemble of the above with %0.9664179104477612 accuracy
+Able to predict openness based on individual testing totals using ensemble of the above with %0.9403030303030303 accuracy
+Able to predict openness based on individual training preferences using ensemble of the above with %0.9119402985074627 accuracy
+Able to predict openness based on individual testing preferences using ensemble of the above with %0.9148484848484848 accuracy
+Able to predict openness based on individual training pca questions using ensemble of the above with %0.9211940298507463 accuracy
+Able to predict openness based on individual testing pca questions using ensemble of the above with %0.9203030303030303 accuracy
+Able to predict openness based on individual training pca separated questions using ensemble of the above with %0.9367164179104478 accuracy
+Able to predict openness based on individual testing pca separated questions using ensemble of the above with %0.933030303030303 accuracy
