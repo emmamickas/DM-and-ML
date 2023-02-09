@@ -1,6 +1,3 @@
-#Emma Mickas
-#ID: 011651116
-#CptS437 Project
 
 import csv
 from time import time
